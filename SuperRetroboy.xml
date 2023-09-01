@@ -36,7 +36,7 @@ version         2.4
          <backgroundColor>00000000</backgroundColor>
          <color>ffffff</color>
          <fontPath>./_inc/fonts/Cabin-Bold.ttf</fontPath>
-	     <fontSize>0.04</fontSize>
+	      <fontSize>0.04</fontSize>
          <zIndex>5</zIndex>	     
       </text>            
    </view>
