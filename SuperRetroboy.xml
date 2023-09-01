@@ -38,20 +38,14 @@ version         2.4
          <fontPath>./_inc/fonts/Cabin-Bold.ttf</fontPath>
 	      <fontSize>0.04</fontSize>
          <zIndex>5</zIndex>	     
-      </text>
-      <helpsystem name="help">
-         <backgroundColor>00000000</backgroundColor>
-         <color>ffffff</color>
-         <fontPath>./_inc/fonts/Cabin-Bold.ttf</fontPath>
-			<fontSize>0.025</fontSize>
-		</helpsystem>            
+      </text>          
    </view>
 </feature>
 
    <view name="system">
       <helpsystem name="help">
          <fontPath>./_inc/fonts/Cabin-Bold.ttf</fontPath>
-         <fontSize>0.025</fontSize>     
+         <fontSize>0.04</fontSize>     
          <pos>0.04 0.95</pos>      
          <textColor>ffffff</textColor>
          <iconColor>ffffff</iconColor>
