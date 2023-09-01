@@ -32,11 +32,11 @@ version         2.4
          <path>./_inc/images/background.png</path>
       </image>                      
       <text name="systemInfo">     
-         <pos>0.0 0.6</pos>
+         <pos>0.0 0.65</pos>
          <backgroundColor>00000000</backgroundColor>
          <color>ffffff</color>
          <fontPath>./_inc/fonts/Cabin-Bold.ttf</fontPath>
-	      <fontSize>0.1</fontSize>
+	      <fontSize>0.04</fontSize>
          <zIndex>5</zIndex>	     
       </text>            
    </view>
